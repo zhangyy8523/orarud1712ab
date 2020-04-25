@@ -6,4 +6,5 @@ package com.bwie.config;
  * @日期：2020/4/25 15:00
  */
 public class Test {
+    public String userName ;
 }
